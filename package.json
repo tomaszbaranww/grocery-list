@@ -1,7 +1,7 @@
 {
   "name": "grocery-list",
   "version": "0.1.0",
-  "homepage": "https://PanWidmo.github.io/grocery-list",
+  "homepage": "https://tomaszbaranww.github.io/grocery-list",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",

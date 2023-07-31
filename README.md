@@ -1,3 +1,3 @@
 # Grocery list
 
-Link: https://panwidmo.github.io/grocery-list/
+Link: https://tomaszbaranww.github.io/grocery-list/
